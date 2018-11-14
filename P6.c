@@ -1,5 +1,5 @@
 /* P6.c */ 
-/* Anaísa Fonseca */ 
+/* AnaÃ­sa Fonseca */ 
 /* 11811ECP012 */ 
 
 #include <stdio.h>
